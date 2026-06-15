@@ -1,0 +1,16 @@
+body {
+background-color: #f0f8ff;
+font-family: Arial, sans-serif;
+}
+
+.external-section {
+background-color: lightgreen;
+color: darkgreen;
+padding: 10px;
+border: 2px solid green;
+}
+
+h1 {
+text-align: center;
+color: navy;
+}
